@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://www.coindesk.com/markets/2025/04/26/trump-tokens-85-weekly-surge-defies-democrats-call-for-impeachment-massive-unlocks",
+    "title": "Trump Token's 85% Weekly Surge Defies Democrats' Call for Impeachment, Massive Unlocks",
+    "short_summary_sentiment": {
+      "label": "LABEL_1",
+      "score": 0.7440159916877747
+    },
+    "long_summary_sentiment": {
+      "label": "LABEL_2",
+      "score": 0.6041350960731506
+    }
+  },
+  {
+    "url": "https://www.coindesk.com/markets/2025/04/25/bitcoin-poised-for-strongest-weekly-gain-since-trump-win-as-etfs-gobble-usd2-7b-inflows",
+    "title": "Bitcoin Poised for Strongest Weekly Gain Since Trump Win as ETFs Gobble $2.7B Inflows",
+    "short_summary_sentiment": {
+      "label": "LABEL_2",
+      "score": 0.8984258770942688
+    },
+    "long_summary_sentiment": {
+      "label": "LABEL_2",
+      "score": 0.8923952579498291
+    }
+  },
+  {
+    "url": "https://www.coindesk.com/markets/2025/04/25/doge-mining-firm-z-squared-to-go-public-through-merger",
+    "title": "DOGE Mining Firm Z Squared To Go Public Through Merger",
+    "short_summary_sentiment": {
+      "label": "LABEL_1",
+      "score": 0.6730541586875916
+    },
+    "long_summary_sentiment": {
+      "label": "LABEL_1",
+      "score": 0.6940017342567444
+    }
+  },
+  {
+    "url": "https://www.coindesk.com/markets/2025/04/25/stablecoins-could-bring-chatgpt-moment-for-blockchain-adoption-hit-usd3-7t-by-2030-citi",
+    "title": "Stablecoins Could Bring 'ChatGPT' Moment to Blockchain Adoption, Hit $3.7T by 2030: Citi",
+    "short_summary_sentiment": {
+      "label": "LABEL_2",
+      "score": 0.662605881690979
+    },
+    "long_summary_sentiment": {
+      "label": "LABEL_2",
+      "score": 0.8407608270645142
+    }
+  },
+  {
+    "url": "https://www.coindesk.com/markets/2025/04/25/want-to-have-dinner-with-the-u-s-president-all-you-will-need-is-to-hold-usd420-worth-of-trump",
+    "title": "Dinner With the U.S. President? All You Need Is $420 Worth of TRUMP",
+    "short_summary_sentiment": {
+      "label": "LABEL_1",
+      "score": 0.651912271976471
+    },
+    "long_summary_sentiment": {
+      "label": "LABEL_1",
+      "score": 0.5791246891021729
+    }
+  }
+]
