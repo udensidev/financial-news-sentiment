@@ -30,7 +30,7 @@ financial-news-sentiment/
 │   └── main.py             # Master pipeline script
 ├── requirements.txt        # Python dependencies
 └── README.md               # This file
-
+```
 
 
 ---
@@ -43,6 +43,7 @@ financial-news-sentiment/
 
 ```bash
 bash launch.sh
+```
 
 ✅ This will automatically:
 - Check for and install Python dependencies
