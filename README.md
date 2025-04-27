@@ -29,7 +29,8 @@ financial-news-sentiment/
 │   ├── rank_news.py
 │   └── main.py             # Master pipeline script
 ├── requirements.txt        # Python dependencies
-└── README.md               # This file
+├── README.md               # This file
+├── launch.sh               # Launch script   
 ```
 
 

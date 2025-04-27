@@ -20,10 +20,18 @@ fi
 
 # Step 0.1: Check if pip is installed
 if ! command -v pip3 &> /dev/null; then
-    echo "❌ pip is not installed. Please install pip to proceed."
-    exit 1
+    echo "❌ pip3 not found."
+    echo "👉 Attempting to install pip3..."
+    sudo apt update && sudo apt install python3-pip -y
+
+    if ! command -v pip3 &> /dev/null; then
+        echo "❌ Failed to install pip3 automatically. Please install manually."
+        exit 1
+    else
+        echo "✅ pip3 installed successfully."
+    fi
 else
-    echo "✅ pip is installed."
+    echo "✅ pip3 is installed."
 fi
 
 # Step 1: Check if requirements are installed
