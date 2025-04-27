@@ -79,7 +79,7 @@ bash launch.sh
 ## 🚀 Features
 
 - Real-time scraping from CoinDesk
-- Clean metadata extraction (Title + Publish Date)
+- Clean metadata extraction
 - Abstractive article summarization
 - Sentiment scoring (short vs long summary comparison)
 - Automatic article ranking based on sentiment strength
