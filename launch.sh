@@ -46,6 +46,14 @@ else
     exit 1
 fi
 
+sleep 5
+
+clear
+
+echo "🚀 Launching News Sentiment Analysis Pipeline 🚀"
+echo "--------------------------------------------"
+
+
 # Step 2: Run the main Python script
 echo "⚙️ Running the pipeline..."
 python3 src/main.py

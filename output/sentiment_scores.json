@@ -1,62 +1,62 @@
 [
   {
-    "url": "https://www.coindesk.com/markets/2025/04/26/trump-tokens-85-weekly-surge-defies-democrats-call-for-impeachment-massive-unlocks",
-    "title": "Trump Token's 85% Weekly Surge Defies Democrats' Call for Impeachment, Massive Unlocks",
+    "url": "https://www.coindesk.com/markets/2025/04/28/prediction-markets-traders-bet-big-on-easy-liberal-win-as-canadians-head-to-the-polls",
+    "title": "Prediction Markets Traders Bet Big on Easy Liberal Win as Canadians Head to the Polls",
     "short_summary_sentiment": {
       "label": "LABEL_1",
-      "score": 0.7440159916877747
+      "score": 0.7154903411865234
     },
     "long_summary_sentiment": {
-      "label": "LABEL_2",
-      "score": 0.6041350960731506
+      "label": "LABEL_0",
+      "score": 0.6962989568710327
     }
   },
   {
-    "url": "https://www.coindesk.com/markets/2025/04/25/bitcoin-poised-for-strongest-weekly-gain-since-trump-win-as-etfs-gobble-usd2-7b-inflows",
-    "title": "Bitcoin Poised for Strongest Weekly Gain Since Trump Win as ETFs Gobble $2.7B Inflows",
+    "url": "https://www.coindesk.com/markets/2025/04/28/bitcoin-to-hit-new-all-time-high-around-120k-in-q2-standard-chartered",
+    "title": "Bitcoin to Hit New All-Time High Around $120K in Q2, Standard Chartered Says",
     "short_summary_sentiment": {
       "label": "LABEL_2",
-      "score": 0.8984258770942688
+      "score": 0.6176312565803528
     },
     "long_summary_sentiment": {
       "label": "LABEL_2",
-      "score": 0.8923952579498291
+      "score": 0.8387710452079773
     }
   },
   {
-    "url": "https://www.coindesk.com/markets/2025/04/25/doge-mining-firm-z-squared-to-go-public-through-merger",
-    "title": "DOGE Mining Firm Z Squared To Go Public Through Merger",
+    "url": "https://www.coindesk.com/markets/2025/04/28/strategy-adds-additional-142b-of-bitcoin-with-latest-purchase",
+    "title": "Strategy Adds Additional $1.42B of Bitcoin With Latest Purchase",
     "short_summary_sentiment": {
       "label": "LABEL_1",
-      "score": 0.6730541586875916
+      "score": 0.5983189940452576
     },
     "long_summary_sentiment": {
       "label": "LABEL_1",
-      "score": 0.6940017342567444
+      "score": 0.5840429663658142
     }
   },
   {
-    "url": "https://www.coindesk.com/markets/2025/04/25/stablecoins-could-bring-chatgpt-moment-for-blockchain-adoption-hit-usd3-7t-by-2030-citi",
-    "title": "Stablecoins Could Bring 'ChatGPT' Moment to Blockchain Adoption, Hit $3.7T by 2030: Citi",
+    "url": "https://www.coindesk.com/markets/2025/04/28/monero-price-surge-likely-attributable-to-large-hack-zachxbt",
+    "title": "Monero Price Surge Likely Attributable to Large Hack: ZachXBT",
     "short_summary_sentiment": {
-      "label": "LABEL_2",
-      "score": 0.662605881690979
+      "label": "LABEL_1",
+      "score": 0.6979678273200989
     },
     "long_summary_sentiment": {
-      "label": "LABEL_2",
-      "score": 0.8407608270645142
+      "label": "LABEL_1",
+      "score": 0.6342061758041382
     }
   },
   {
-    "url": "https://www.coindesk.com/markets/2025/04/25/want-to-have-dinner-with-the-u-s-president-all-you-will-need-is-to-hold-usd420-worth-of-trump",
-    "title": "Dinner With the U.S. President? All You Need Is $420 Worth of TRUMP",
+    "url": "https://www.coindesk.com/markets/2025/04/28/bitcoin-turns-positive-year-to-date-as-it-veers-toward-digital-gold-narrative",
+    "title": "Bitcoin Turns Positive Year-to-Date as It Veers Toward Digital Gold Narrative",
     "short_summary_sentiment": {
-      "label": "LABEL_1",
-      "score": 0.651912271976471
+      "label": "LABEL_2",
+      "score": 0.902991533279419
     },
     "long_summary_sentiment": {
-      "label": "LABEL_1",
-      "score": 0.5791246891021729
+      "label": "LABEL_2",
+      "score": 0.6886523365974426
     }
   }
 ]
