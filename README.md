@@ -10,7 +10,7 @@ The pipeline:
 - Scrapes the latest articles from CoinDesk.
 - Extracts **Title**, **Publish Date**, and **Full Text**.
 - Summarizes each article using a Hugging Face model (`facebook/bart-large-cnn`).
-- Analyzes the sentiment of short and long summaries separately (`cardiffnlp/twitter-roberta-base-sentiment`).
+- Analyzes the sentiment of short and long summaries separately (`ProsusAI/finbert`).
 - Ranks the articles based on sentiment scores.
 - Displays results neatly as a terminal table using `tabulate`.
 
