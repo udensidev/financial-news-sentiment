@@ -59,7 +59,7 @@ bash launch.sh
 
 - Python 3.10+
 - `requests` and `BeautifulSoup` (web scraping)
-- Hugging Face `transformers` (`facebook/bart-large-cnn` for summarization, `cardiffnlp/twitter-roberta-base-sentiment` for sentiment anlysis)
+- Hugging Face `transformers` (`facebook/bart-large-cnn` for summarization, `ProsusAI/finbert` for sentiment anlysis)
 - `tabulate` (clean terminal table output)
 
 ---

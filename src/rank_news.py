@@ -2,6 +2,7 @@ import json
 from tabulate import tabulate
 def rank_articles():
     print("Getting you your most relevant articles...")
+    
     with open('output/sentiment_scores.json') as f:
         sentiments = json.load(f)
     
@@ -13,8 +14,8 @@ def rank_articles():
         long_score = article['long_summary_sentiment']['score']
         table.append([title, short_score, long_score])
 
-    # Sort by short summary sentiment score descending
-    table = sorted(table, key=lambda x: x[1], reverse=True)
+    # Sort by long summary sentiment score descending
+    table = sorted(table, key=lambda x: abs(x[2]), reverse=True)
 
     # Define table headers
     headers = ["Article", "Short Sentiment Score", "Long Sentiment Score"]

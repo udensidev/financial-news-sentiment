@@ -40,7 +40,7 @@ def scrape_articles(max_articles=5):
     with open('data/articles.json', 'w') as f:
         json.dump(articles, f, indent=2)
 
-    print(f"Scraped {len(articles)} unique articles from CoinDesk Markets.")
+    print(f"Scraped {len(articles)} unique articles from CoinDesk.")
 
 def scrape_single_article(url, headers):
     try:

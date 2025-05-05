@@ -1,62 +1,62 @@
 [
   {
-    "url": "https://www.coindesk.com/markets/2025/04/28/prediction-markets-traders-bet-big-on-easy-liberal-win-as-canadians-head-to-the-polls",
-    "title": "Prediction Markets Traders Bet Big on Easy Liberal Win as Canadians Head to the Polls",
+    "url": "https://www.coindesk.com/markets/2025/05/05/bitcoin-to-see-additional-usd330b-of-corporate-treasury-inflows-by-2029-bernstein",
+    "title": "Bitcoin to See Additional $330B of Corporate Treasury Inflows by 2029: Bernstein",
     "short_summary_sentiment": {
-      "label": "LABEL_1",
-      "score": 0.7154903411865234
+      "label": "neutral",
+      "score": 0.5731120705604553
     },
     "long_summary_sentiment": {
-      "label": "LABEL_0",
-      "score": 0.6962989568710327
+      "label": "neutral",
+      "score": 0.7691894769668579
     }
   },
   {
-    "url": "https://www.coindesk.com/markets/2025/04/28/bitcoin-to-hit-new-all-time-high-around-120k-in-q2-standard-chartered",
-    "title": "Bitcoin to Hit New All-Time High Around $120K in Q2, Standard Chartered Says",
+    "url": "https://www.coindesk.com/markets/2025/05/05/bitcoin-treasury-firms-dry-powder-could-push-prices-up-significantly-nydig",
+    "title": "Bitcoin Treasury Firms' 'Dry Powder' Could Push Prices Up Significantly: NYDIG",
     "short_summary_sentiment": {
-      "label": "LABEL_2",
-      "score": 0.6176312565803528
+      "label": "positive",
+      "score": 0.7586572170257568
     },
     "long_summary_sentiment": {
-      "label": "LABEL_2",
-      "score": 0.8387710452079773
+      "label": "neutral",
+      "score": 0.5527621507644653
     }
   },
   {
-    "url": "https://www.coindesk.com/markets/2025/04/28/strategy-adds-additional-142b-of-bitcoin-with-latest-purchase",
-    "title": "Strategy Adds Additional $1.42B of Bitcoin With Latest Purchase",
+    "url": "https://www.coindesk.com/markets/2025/05/05/chainlink-to-start-new-community-rewards-program-for-link-stakers",
+    "title": "Chainlink to Start New Community Rewards Program for LINK Stakers",
     "short_summary_sentiment": {
-      "label": "LABEL_1",
-      "score": 0.5983189940452576
+      "label": "positive",
+      "score": 0.5205035209655762
     },
     "long_summary_sentiment": {
-      "label": "LABEL_1",
-      "score": 0.5840429663658142
+      "label": "neutral",
+      "score": 0.9208436012268066
     }
   },
   {
-    "url": "https://www.coindesk.com/markets/2025/04/28/monero-price-surge-likely-attributable-to-large-hack-zachxbt",
-    "title": "Monero Price Surge Likely Attributable to Large Hack: ZachXBT",
+    "url": "https://www.coindesk.com/markets/2025/05/05/bitcoins-support-at-888k-in-focus-after-trendline-break-xrp-eyes-death-cross-technical-analysis",
+    "title": "Bitcoin\u2019s Support at $88.8K in Focus After Trendline Break; XRP Eyes Death Cross: Technical Analysis",
     "short_summary_sentiment": {
-      "label": "LABEL_1",
-      "score": 0.6979678273200989
+      "label": "negative",
+      "score": -0.9587176442146301
     },
     "long_summary_sentiment": {
-      "label": "LABEL_1",
-      "score": 0.6342061758041382
+      "label": "negative",
+      "score": -0.956928014755249
     }
   },
   {
-    "url": "https://www.coindesk.com/markets/2025/04/28/bitcoin-turns-positive-year-to-date-as-it-veers-toward-digital-gold-narrative",
-    "title": "Bitcoin Turns Positive Year-to-Date as It Veers Toward Digital Gold Narrative",
+    "url": "https://www.coindesk.com/markets/2025/05/05/bitcoin-could-slide-to-usd90k-as-btc-traders-eye-fed-meeting",
+    "title": "Bitcoin Could Slide to $90K as BTC Traders Eye Fed Meeting",
     "short_summary_sentiment": {
-      "label": "LABEL_2",
-      "score": 0.902991533279419
+      "label": "negative",
+      "score": -0.9668381810188293
     },
     "long_summary_sentiment": {
-      "label": "LABEL_2",
-      "score": 0.6886523365974426
+      "label": "negative",
+      "score": -0.9566870331764221
     }
   }
 ]

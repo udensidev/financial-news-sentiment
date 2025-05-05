@@ -21,5 +21,6 @@ def summarize_articles():
         json.dump(summaries, f, indent=2)
         
     print(f"Summarized {len(summaries)} articles.")
+    
 if __name__ == "__main__":
     summarize_articles()
